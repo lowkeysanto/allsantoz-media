@@ -19,3 +19,8 @@ Regla: antes de programar, mirar este archivo y el calendario de Metricool de la
 
 ## Programado
 - 19/11 19:00 · lowkeysanto.stz (IG Reel + TikTok + YouTube Short) · Cumpleaños Lowkey · Metricool id 434464706
+- 20/11 13:30 · all.santoz · YouTube Short · Día 2 San Juan (sanjuan/short_dia2) · programado por la sesión "shorts/vlogs San Juan"
+
+## Plan de esta sesión (vlogs San Juan, pedido de Lowkey: largos a YouTube + cortos a Shorts, Día 1 → Día 6, cada 1 h 30)
+- Shorts 20/11: D1 12:00 · D2 13:30 (hecho) · D3 15:00 · D4 16:30 · D5 18:00 · D6 19:30 (solo YouTube Short)
+- Largos horizontales (YouTube video): se agregan acá cuando estén renderizados
